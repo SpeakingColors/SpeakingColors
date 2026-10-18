@@ -6,7 +6,7 @@ I build free, open source music tools, Linux first: hardware controller plugins,
 
 **Synths and units**
 - [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST): supersaw, hoover and acid synth
-- [HyperSawX](https://github.com/SpeakingColors/super-duper-stuff) (minilogue xd), [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd), [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd), [hypersaw-drumlogue](https://github.com/SpeakingColors/hypersaw-drumlogue), [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD) (planned)
+- [HyperSawX](https://github.com/SpeakingColors/super-duper-stuff) (minilogue xd), [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd), [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd), [hypersaw-drumlogue](https://github.com/SpeakingColors/hypersaw-drumlogue), [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD)
 
 **Studio tools**
 - [Whiskerwave](https://github.com/SpeakingColors/Whiskerwave-vst): wavetable synth with generated waves and a hardware capture tool (planning)
