@@ -25,4 +25,10 @@ I build free, open source music tools, Linux first: hardware controller plugins,
 **Hardware controllers (Linux)**
 - [WhiskerMix](https://github.com/SpeakingColors/whiskermix), [Peak](https://github.com/SpeakingColors/linux-peak-controller), [UltraNova](https://github.com/SpeakingColors/linux-ultranova-controller), [Cobalt8M](https://github.com/SpeakingColors/Cobalt8M-Controller-VST), [MODX M](https://github.com/SpeakingColors/modxm-controller-vst), [drumlogue](https://github.com/SpeakingColors/drumlogue-linux-controller), [minilogue xd](https://github.com/SpeakingColors/minilogue-xd-controller), [MX400](https://github.com/SpeakingColors/mx400-vst-linux), [M-VAVE FM-1](https://github.com/SpeakingColors/mwave-fm1-linux-vst), [TD-3-MO](https://github.com/SpeakingColors/td3mo-vst), [Pro-1](https://github.com/SpeakingColors/catpro1), [JT-4000](https://github.com/SpeakingColors/jt4000-vst), [PRO VS Mini](https://github.com/SpeakingColors/provsmini-vst)
 
-Everything is free, open source and forkable. Donations welcome: https://ko-fi.com/studio87
+Everything is free, open source and forkable.
+
+<p align="center">
+  <a href="https://ko-fi.com/studio87"><img src="https://img.shields.io/badge/Support_Studio_87-on_Ko--fi-FF5E5B?style=for-the-badge&logo=kofi&logoColor=white" alt="Support Studio 87 on Ko-fi"></a>
+</p>
+
+☕ Free and open source, made by one person. If it helps your music, a coffee on [Ko-fi](https://ko-fi.com/studio87) keeps it coming. 💜
