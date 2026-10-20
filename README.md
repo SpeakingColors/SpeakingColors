@@ -1,16 +1,18 @@
 # Hi, I'm Meow 🐈
 
-I build free, open source music tools, Linux first: hardware controller plugins, creative plugins, synths and a sample manager.
+I build **free, open source music production software by Studio 87**, Linux first, with Windows and macOS builds for many: **VST3 synthesizer plugins** (supersaw, hoover, trance, acid, mono bass and lead, wavetable), **effect plugins** (compressor, limiter, saturation, distortion, bass enhancer, exciter, spectral sidechain ducker, shimmer reverb, volume shaper), **DJ and scratch plugins**, an **audio editor**, a **sample manager**, **analyser plugins**, **MIDI controller and editor plugins for hardware synths** (Korg, Novation, Behringer, Yamaha, Modal) and **oscillator and effect units for the Korg minilogue xd and drumlogue**. Made with JUCE and C++, as VST3 and standalone apps.
 
 ## Projects
 
 **Synths and units**
-- [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST): supersaw, hoover and acid synth
+- [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST): free supersaw, hoover and acid synth VST3 (installers for Linux, Windows and macOS)
 - [HyperSawX](https://github.com/SpeakingColors/super-duper-stuff) (minilogue xd), [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd), [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd), [hypersaw-drumlogue](https://github.com/SpeakingColors/hypersaw-drumlogue), [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD)
 
 **Studio tools**
 - [Whisker Scope](https://github.com/SpeakingColors/whiskerscope): spectrum, scope and stereo analyser (design phase)
-- [PurrOne](https://github.com/SpeakingColors/PurrOne): mono synth
+- [PurrOne](https://github.com/SpeakingColors/PurrOne): mono synth for bass and lead
+- [Hairball](https://github.com/SpeakingColors/hairball): grain-based freeze and transform plugin
+- [Meowcorder](https://github.com/SpeakingColors/Meowcorder): audio editor and recorder (work in progress)
 - [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst), [FatCat](https://github.com/SpeakingColors/FatCat), [catspacer](https://github.com/SpeakingColors/catspacer), [meowbass](https://github.com/SpeakingColors/meowbass), [Meowximizer](https://github.com/SpeakingColors/Meowximizer): effects (early builds)
 - [Whiskerwave](https://github.com/SpeakingColors/Whiskerwave-vst): wavetable synth with generated waves and a hardware capture tool (planning)
 - [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst): multiband compressor and limiter (planning)
