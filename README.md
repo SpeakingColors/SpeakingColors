@@ -16,11 +16,11 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 
 **Synths and units**
 - [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST): free supersaw, hoover and acid synth VST3 (installers for Linux, Windows and macOS)
+- [PurrOne](https://github.com/SpeakingColors/PurrOne): free mono synth VST for bass and lead, Pro-One style (installers for Linux, Windows and macOS)
 - [HyperSawX](https://github.com/SpeakingColors/super-duper-stuff) (minilogue xd), [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd), [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd), [hypersaw-drumlogue](https://github.com/SpeakingColors/hypersaw-drumlogue), [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD)
 
 **Studio tools**
 - [Whisker Scope](https://github.com/SpeakingColors/whiskerscope): spectrum, scope and stereo analyser (design phase)
-- [PurrOne](https://github.com/SpeakingColors/PurrOne): mono synth for bass and lead
 - [Hairball](https://github.com/SpeakingColors/hairball): grain-based freeze and transform plugin (v0.1.0)
 - [Meowcorder](https://github.com/SpeakingColors/Meowcorder): audio editor and recorder (work in progress)
 - [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst), [FatCat](https://github.com/SpeakingColors/FatCat), [catspacer](https://github.com/SpeakingColors/catspacer), [meowbass](https://github.com/SpeakingColors/meowbass), [Meowximizer](https://github.com/SpeakingColors/Meowximizer): effects (v0.1.0 test builds)
