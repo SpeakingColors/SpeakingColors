@@ -10,8 +10,11 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 
 - [Hairball](https://github.com/SpeakingColors/hairball/releases) v0.1.0: freeze and grain plugin, instrument and FX
 - [WhiskerMix](https://github.com/SpeakingColors/whiskermix/releases) v0.1.0: mixer and MIDI hub for the RME Digiface USB and Pulse 16
-- The five FX plugins, v0.1.0: [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst/releases), [Fat Cat](https://github.com/SpeakingColors/FatCat/releases), [Cat Spacer](https://github.com/SpeakingColors/catspacer/releases), [Meowbass](https://github.com/SpeakingColors/meowbass/releases), [Meowximizer](https://github.com/SpeakingColors/Meowximizer/releases)
+- The five FX plugins, v0.2.3: [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst/releases), [Fat Cat](https://github.com/SpeakingColors/FatCat/releases), [Cat Spacer](https://github.com/SpeakingColors/catspacer/releases), [Meowbass](https://github.com/SpeakingColors/meowbass/releases), [Meowximizer](https://github.com/SpeakingColors/Meowximizer/releases)
 - Korg units: [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd/releases) v1.3.0, [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd/releases) v1.0.0, [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD/releases) v1.1
+- [PurrOne](https://github.com/SpeakingColors/PurrOne/releases) v0.3.0 and [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST/releases) v0.3.2: the two synths
+- [Purrfect Cut](https://github.com/SpeakingColors/purrfect-cut/releases) v0.2.0, [CATalog](https://github.com/SpeakingColors/CATalog/releases), [Stretch Cat](https://github.com/SpeakingColors/stretch-cat-vst/releases) and [Copycat](https://github.com/SpeakingColors/copycat-vst/releases) v0.1.0, [Scratch Cat FX](https://github.com/SpeakingColors/scratchcatfx-vst/releases) and [Duo](https://github.com/SpeakingColors/scratchcatduo-vst/releases) v0.2.0
+- [Whisker Scope](https://github.com/SpeakingColors/whiskerscope/releases) v0.3.1, [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst/releases) and [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff/releases) v0.2.0
 - Recipe books: [Pro-1](https://github.com/SpeakingColors/catpro1/releases) and [TD-3-MO](https://github.com/SpeakingColors/td3mo-vst/releases) v0.1.0
 
 **Synths and units**
@@ -20,20 +23,20 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [HyperSawX](https://github.com/SpeakingColors/super-duper-stuff) (minilogue xd), [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd), [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd), [hypersaw-drumlogue](https://github.com/SpeakingColors/hypersaw-drumlogue), [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD)
 
 **Studio tools**
-- [Whisker Scope](https://github.com/SpeakingColors/whiskerscope): spectrum, scope and stereo analyser (design phase)
+- [Whisker Scope](https://github.com/SpeakingColors/whiskerscope): spectrum, scope and stereo analyser (test builds)
 - [Hairball](https://github.com/SpeakingColors/hairball): grain-based freeze and transform plugin (v0.1.0)
 - [Meowcorder](https://github.com/SpeakingColors/Meowcorder): audio editor and recorder (work in progress)
-- [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst), [FatCat](https://github.com/SpeakingColors/FatCat), [catspacer](https://github.com/SpeakingColors/catspacer), [meowbass](https://github.com/SpeakingColors/meowbass), [Meowximizer](https://github.com/SpeakingColors/Meowximizer): effects (v0.1.0 test builds)
+- [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst), [FatCat](https://github.com/SpeakingColors/FatCat), [catspacer](https://github.com/SpeakingColors/catspacer), [meowbass](https://github.com/SpeakingColors/meowbass), [Meowximizer](https://github.com/SpeakingColors/Meowximizer): effects (v0.2.3 test builds)
 - [Whiskerwave](https://github.com/SpeakingColors/Whiskerwave-vst): wavetable synth with generated waves and a hardware capture tool (planning)
-- [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst): multiband compressor and limiter (planning)
+- [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst): multiband compressor and limiter (test builds)
 - [CATalog](https://github.com/SpeakingColors/CATalog): sample manager
 - [Purrfect Cut](https://github.com/SpeakingColors/purrfect-cut): audio editor
-- [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff): shimmer reverb and delay as separate FX plugins (in development)
+- [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff): shimmer reverb and delay as separate FX plugins (test builds)
 - [cat-ui](https://github.com/SpeakingColors/cat-ui): shared UI
 
 **Creative plugins**
 - [AI Purrformer](https://github.com/SpeakingColors/AI-Purrformer): AI singing voice tool (planning)
-- [Scaredy Cat](https://github.com/SpeakingColors/scaredy-cat) (v0.2.2), [Stretch Cat](https://github.com/SpeakingColors/stretch-cat-vst), [Copycat](https://github.com/SpeakingColors/copycat-vst), [Scratch Cat FX](https://github.com/SpeakingColors/scratchcatfx-vst), [Scratch Cat Duo](https://github.com/SpeakingColors/scratchcatduo-vst)
+- [Scaredy Cat](https://github.com/SpeakingColors/scaredy-cat) (v0.2.5), [Stretch Cat](https://github.com/SpeakingColors/stretch-cat-vst), [Copycat](https://github.com/SpeakingColors/copycat-vst), [Scratch Cat FX](https://github.com/SpeakingColors/scratchcatfx-vst), [Scratch Cat Duo](https://github.com/SpeakingColors/scratchcatduo-vst)
 
 **Hardware controllers (Linux)**
 - [WhiskerMix](https://github.com/SpeakingColors/whiskermix) (RME Digiface USB and Pulse 16), [Peak](https://github.com/SpeakingColors/linux-peak-controller), [UltraNova](https://github.com/SpeakingColors/linux-ultranova-controller), [Cobalt8M](https://github.com/SpeakingColors/Cobalt8M-Controller-VST), [MODX M](https://github.com/SpeakingColors/modxm-controller-vst), [drumlogue](https://github.com/SpeakingColors/drumlogue-linux-controller), [minilogue xd](https://github.com/SpeakingColors/minilogue-xd-controller), [MX400](https://github.com/SpeakingColors/mx400-vst-linux), [M-VAVE FM-1](https://github.com/SpeakingColors/mwave-fm1-linux-vst), [TD-3-MO](https://github.com/SpeakingColors/td3mo-vst), [Pro-1](https://github.com/SpeakingColors/catpro1), [JT-4000](https://github.com/SpeakingColors/jt4000-vst), [PRO VS Mini](https://github.com/SpeakingColors/provsmini-vst)
