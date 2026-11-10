@@ -1,19 +1,20 @@
 # Hi, I'm Meow 🐈
 
-I build **free, open source music production software by Studio 87**, Linux first, with Windows and macOS builds for many: **VST3 synthesizer plugins** (supersaw, hoover, trance, acid, mono bass and lead, wavetable), **effect plugins** (compressor, limiter, saturation, distortion, bass enhancer, exciter, spectral sidechain ducker, shimmer reverb, volume shaper), **DJ and scratch plugins**, an **audio editor**, a **sample manager**, **analyser plugins**, **MIDI controller and editor plugins for hardware synths** (Korg, Novation, Behringer, Yamaha, Modal) and **oscillator and effect units for the Korg minilogue xd and drumlogue**. Made with JUCE and C++, as VST3 and standalone apps.
+I build **free, open source music production software by Studio 87**, Linux first, with Windows and macOS builds for many: **VST3 synthesizer plugins** (supersaw, hoover, trance, acid, mono bass and lead, wavetable), **effect plugins** (compressor, limiter, saturation, distortion, bass enhancer, exciter, spectral sidechain ducker, shimmer reverb, volume shaper), **DJ and scratch plugins**, an **audio editor**, a **sample manager**, a **Google TV launcher**, **analyser plugins**, **MIDI controller and editor plugins for hardware synths** (Korg, Novation, Behringer, Yamaha, Modal) and **oscillator and effect units for the Korg minilogue xd and drumlogue**. Made with JUCE and C++, as VST3 and standalone apps.
 
 ## Latest releases
 
 Pre-releases are test builds: they install and run, but are not yet checked on every machine.
 
 - [Hairball](https://github.com/SpeakingColors/hairball/releases) v0.1.0: freeze and grain plugin, instrument and FX
-- [WhiskerMix](https://github.com/SpeakingColors/whiskermix/releases) v0.1.0: mixer and MIDI hub for the RME Digiface USB and Pulse 16
+- [WhiskerMix](https://github.com/SpeakingColors/whiskermix/releases) v0.5.3 (test build): mixer and MIDI hub for the RME Digiface USB and Pulse 16
 - The five FX plugins, v0.2.3: [Cat Crusher](https://github.com/SpeakingColors/catcrusher-vst/releases), [Fat Cat](https://github.com/SpeakingColors/FatCat/releases), [Cat Spacer](https://github.com/SpeakingColors/catspacer/releases), [Meowbass](https://github.com/SpeakingColors/meowbass/releases), [Meowximizer](https://github.com/SpeakingColors/Meowximizer/releases)
 - Korg units: [hypersaw-xd](https://github.com/SpeakingColors/hypersaw-xd/releases) v1.3.0, [sawwiden-xd](https://github.com/SpeakingColors/sawwiden-xd/releases) v1.0.0, [MegaSaw XD](https://github.com/SpeakingColors/MegaSaw-XD/releases) v1.1
 - [JPurrr-8000](https://github.com/SpeakingColors/JPurrr-8000/releases) v0.3.1 (test release): JP-8000 style synth, VST3 and standalone for Linux, Windows and macOS
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten/releases) v0.1 (test build): trance kick maker
 - Compressors, limiters and EQ, all test builds: [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500/releases) v0.1.0 (bus compressor), [PunchPaw](https://github.com/SpeakingColors/PunchPaw/releases) v0.1.0 (kick and drum limiter), [Furchild](https://github.com/SpeakingColors/Furchild/releases) v0.1.0 (variable-mu tube limiter), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce/releases) v0.1.0 (FET limiter), [LapCat2A](https://github.com/SpeakingColors/LapCat2A/releases) (optical leveler), [Pawltec](https://github.com/SpeakingColors/Pawltec/releases) (tube program EQ), [ClawShaper](https://github.com/SpeakingColors/clawshaper/releases) v0.1.0 (multiband transient shaper)
 - [CatRack](https://github.com/SpeakingColors/CatRack/releases) v0.1.2 (test build): channel strip with 28 built-in units
+- [Gear Updater](https://github.com/SpeakingColors/gearupdater/releases) v0.1.1 (test build): one window to update every Studio 87 plugin
 - [PurrOne](https://github.com/SpeakingColors/PurrOne/releases) v0.3.0 and [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST/releases) v0.3.2: the two synths
 - [Purrfect Cut](https://github.com/SpeakingColors/purrfect-cut/releases) v0.2.0, [CATalog](https://github.com/SpeakingColors/CATalog/releases), [Stretch Cat](https://github.com/SpeakingColors/stretch-cat-vst/releases) and [Copycat](https://github.com/SpeakingColors/copycat-vst/releases) v0.1.0, [Scratch Cat FX](https://github.com/SpeakingColors/scratchcatfx-vst/releases) and [Duo](https://github.com/SpeakingColors/scratchcatduo-vst/releases) v0.2.0
 - [Whisker Scope](https://github.com/SpeakingColors/whiskerscope/releases) v0.3.1, [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst/releases) v0.2.0 and [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff/releases) (pre-release)
@@ -38,8 +39,12 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten): trance kick maker, VST3 and standalone (test build)
 - [Purrrstressor](https://github.com/SpeakingColors/Purrrstressor): Distressor-inspired compressor (test builds, installers and manual still to do)
 - [Compressors, limiters, EQ and channel strip](https://github.com/SpeakingColors/CatRack) (test builds): [CatRack](https://github.com/SpeakingColors/CatRack), [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500), [PunchPaw](https://github.com/SpeakingColors/PunchPaw), [Furchild](https://github.com/SpeakingColors/Furchild), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce), [LapCat2A](https://github.com/SpeakingColors/LapCat2A), [Pawltec](https://github.com/SpeakingColors/Pawltec), [ClawShaper](https://github.com/SpeakingColors/clawshaper)
-- [Gear Updater](https://github.com/SpeakingColors/gearupdater): one window that lists every Studio 87 plugin, checks GitHub for newer versions and updates them, no data collected (pre-release)
+- [Gear Updater](https://github.com/SpeakingColors/gearupdater): one window that lists every Studio 87 plugin, checks GitHub for newer versions and updates them, no data collected (v0.1.1 test build)
 - [cat-ui](https://github.com/SpeakingColors/cat-ui): shared UI
+- [claude-skills](https://github.com/SpeakingColors/claude-skills): the Claude skills I made for building this software, free to reuse
+
+**Apps for Google TV**
+- [Stardrift TV Launcher](https://github.com/SpeakingColors/StarDriftTVLauncher): a calm, ad free home screen for Google TV with a slowly drifting night sky, your apps, news picks and a Continue watching row; no ads, no tracking (in development, design mockup so far, no release yet)
 
 **Design mockups (in planning, not built yet)**
 - [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor): multiband compressor with multiband sidechain
