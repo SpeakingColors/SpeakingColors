@@ -44,6 +44,7 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten): trance kick maker, VST3 and standalone (test build)
 - [Purrrstressor](https://github.com/SpeakingColors/Purrrstressor): Distressor-inspired compressor (test builds, installers and manual still to do)
 - Compressors, limiters, EQ and channel strip (test builds): [CatRack](https://github.com/SpeakingColors/CatRack), [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500), [PunchPaw](https://github.com/SpeakingColors/PunchPaw), [Furchild](https://github.com/SpeakingColors/Furchild), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce), [LapCat2A](https://github.com/SpeakingColors/LapCat2A), [Pawltec](https://github.com/SpeakingColors/Pawltec), [ClawShaper](https://github.com/SpeakingColors/clawshaper), [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor)
+- [Purrr Voice Channel](https://github.com/SpeakingColors/purrrvoicechannel): tube channel strip for voices, in the style of the ART Voice Channel (design mockup, plugin not built yet)
 - [Gear Updater](https://github.com/SpeakingColors/gearupdater): a launcher to browse, download, install and update every Studio 87 plugin and app in one place (v0.1.1 test build)
 - [phasepaw](https://github.com/SpeakingColors/phasepaw): phase fixer for kick and bass alignment, for better mono compatibility
 - [cat-ui](https://github.com/SpeakingColors/cat-ui): shared UI
