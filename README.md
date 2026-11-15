@@ -23,7 +23,7 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [PurrOne](https://github.com/SpeakingColors/PurrOne) v0.3.0 and [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST) v0.3.2: the two synths
 - [Purrfect Cut](https://github.com/SpeakingColors/purrfect-cut) v0.2.0, [CATalog](https://github.com/SpeakingColors/CATalog), [Stretch Cat](https://github.com/SpeakingColors/stretch-cat-vst) and [Copycat](https://github.com/SpeakingColors/copycat-vst) v0.1.0, [Scratch Cat FX](https://github.com/SpeakingColors/scratchcatfx-vst) and [Duo](https://github.com/SpeakingColors/scratchcatduo-vst) v0.2.0
 - [Whisker Scope](https://github.com/SpeakingColors/whiskerscope) v0.3.1, [Clawpressor](https://github.com/SpeakingColors/Clawpressor-vst) v0.2.0 and [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff) (pre-release)
-- [Cat Recipe Book](https://speakingcolors.github.io/cat-recipe-book/) v0.1.0: one patch recipe book for the Pro-1, CAT, TD-3-MO and TD-3
+- [Synth Cook Book](https://speakingcolors.github.io/synth-cook-book/) v0.1.0: one patch recipe book for the Pro-1, CAT, TD-3-MO and TD-3
 
 **Synths and units**
 - [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST): free supersaw, hoover and acid synth VST3 (installers for Linux, Windows and macOS)
