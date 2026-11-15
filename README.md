@@ -4,6 +4,8 @@
 
 I make **free, open source music software** under Studio 87: **synths, effects, DJ tools and controllers for your hardware synths**. Linux first, with Windows and macOS builds for many. Everything comes as VST3 or standalone, built with JUCE and C++. Grab what you need, and if you want to build on something, fork it. 🎶
 
+🌐 **Website:** [speakingcolors.github.io](https://speakingcolors.github.io/), every plugin with screenshots and downloads.
+
 ## Latest releases
 
 Pre-releases are test builds: they install and run, but are not yet checked on every machine.
