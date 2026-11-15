@@ -15,6 +15,7 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [JPurrr-8000](https://github.com/SpeakingColors/JPurrr-8000) v0.3.1 (test release): JP-8000 style synth, VST3 and standalone for Linux, Windows and macOS
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten) v0.1 (test build): trance kick maker
 - Compressors, limiters and EQ, all test builds: [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500) v0.1.0 (bus compressor), [PunchPaw](https://github.com/SpeakingColors/PunchPaw) v0.1.0 (kick and drum limiter), [Furchild](https://github.com/SpeakingColors/Furchild) v0.1.0 (variable-mu tube limiter), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce) v0.1.0 (FET limiter), [LapCat2A](https://github.com/SpeakingColors/LapCat2A) (optical leveler), [Pawltec](https://github.com/SpeakingColors/Pawltec) (tube program EQ), [ClawShaper](https://github.com/SpeakingColors/clawshaper) v0.1.0 (multiband transient shaper)
+- [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor) v0.1.1 (test build): multiband compressor and limiter with multiband sidechain
 - [CatRack](https://github.com/SpeakingColors/CatRack) v0.1.2 (test build): channel strip with 28 built-in units
 - [Gear Updater](https://github.com/SpeakingColors/gearupdater) v0.1.1 (test build): one window to update every Studio 87 plugin
 - [PurrOne](https://github.com/SpeakingColors/PurrOne) v0.3.0 and [SupurrSaw](https://github.com/SpeakingColors/SupurrrSaw-VST) v0.3.2: the two synths
@@ -40,17 +41,14 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [shimmerstuff](https://github.com/SpeakingColors/shimmerstuff): shimmer reverb and delay as separate FX plugins (test builds)
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten): trance kick maker, VST3 and standalone (test build)
 - [Purrrstressor](https://github.com/SpeakingColors/Purrrstressor): Distressor-inspired compressor (test builds, installers and manual still to do)
-- Compressors, limiters, EQ and channel strip (test builds): [CatRack](https://github.com/SpeakingColors/CatRack), [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500), [PunchPaw](https://github.com/SpeakingColors/PunchPaw), [Furchild](https://github.com/SpeakingColors/Furchild), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce), [LapCat2A](https://github.com/SpeakingColors/LapCat2A), [Pawltec](https://github.com/SpeakingColors/Pawltec), [ClawShaper](https://github.com/SpeakingColors/clawshaper)
-- [Gear Updater](https://github.com/SpeakingColors/gearupdater): one window that lists every Studio 87 plugin, checks GitHub for newer versions and updates them, no data collected (v0.1.1 test build)
+- Compressors, limiters, EQ and channel strip (test builds): [CatRack](https://github.com/SpeakingColors/CatRack), [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500), [PunchPaw](https://github.com/SpeakingColors/PunchPaw), [Furchild](https://github.com/SpeakingColors/Furchild), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce), [LapCat2A](https://github.com/SpeakingColors/LapCat2A), [Pawltec](https://github.com/SpeakingColors/Pawltec), [ClawShaper](https://github.com/SpeakingColors/clawshaper), [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor)
+- [Gear Updater](https://github.com/SpeakingColors/gearupdater): one window that lists every Studio 87 plugin, checks GitHub for newer versions and updates them (v0.1.1 test build)
 - [phasepaw](https://github.com/SpeakingColors/phasepaw): phase fixer for kick and bass alignment, for better mono compatibility
 - [cat-ui](https://github.com/SpeakingColors/cat-ui): shared UI
 - [claude-skills](https://github.com/SpeakingColors/claude-skills): the Claude skills I made for building this software, free to reuse
 
 **Apps for Google TV**
 - [Stardrift TV Launcher](https://github.com/SpeakingColors/StarDriftTVLauncher): a calm, ad free home screen for Google TV with a slowly drifting night sky, your apps, news picks and a Continue watching row; no ads, no tracking (in development, design mockup so far, no release yet)
-
-**Design mockups (in planning, not built yet)**
-- [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor): multiband compressor with multiband sidechain
 
 **Creative plugins**
 - [AI Purrformer](https://github.com/SpeakingColors/AI-Purrformer): AI singing voice tool (planning)
