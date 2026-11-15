@@ -50,7 +50,7 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [claude-skills](https://github.com/SpeakingColors/claude-skills): the Claude skills I made for building this software, free to reuse
 
 **Apps for Google TV**
-- [Stardrift TV Launcher](https://github.com/SpeakingColors/StarDriftTVLauncher): a calm, ad free home screen for Google TV with a slowly drifting night sky, your apps, news picks and a Continue watching row; no ads, no tracking (in development, design mockup so far, no release yet)
+- [Stardrift TV Launcher](https://github.com/SpeakingColors/StarDriftTVLauncher): a calm, ad free home screen for Google TV with a slowly drifting night sky, your apps, news picks and a Continue watching row (in development, design mockup so far, no release yet)
 
 **Creative plugins**
 - [AI Purrformer](https://github.com/SpeakingColors/AI-Purrformer): AI singing voice tool (planning)
