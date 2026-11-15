@@ -42,7 +42,7 @@ Pre-releases are test builds: they install and run, but are not yet checked on e
 - [Kick Kitten](https://github.com/SpeakingColors/KickKitten): trance kick maker, VST3 and standalone (test build)
 - [Purrrstressor](https://github.com/SpeakingColors/Purrrstressor): Distressor-inspired compressor (test builds, installers and manual still to do)
 - Compressors, limiters, EQ and channel strip (test builds): [CatRack](https://github.com/SpeakingColors/CatRack), [Apurrr2500](https://github.com/SpeakingColors/Apurrr2500), [PunchPaw](https://github.com/SpeakingColors/PunchPaw), [Furchild](https://github.com/SpeakingColors/Furchild), [FetlinePounce](https://github.com/SpeakingColors/FetlinePounce), [LapCat2A](https://github.com/SpeakingColors/LapCat2A), [Pawltec](https://github.com/SpeakingColors/Pawltec), [ClawShaper](https://github.com/SpeakingColors/clawshaper), [MultiPaw Compressor](https://github.com/SpeakingColors/multipawcompressor)
-- [Gear Updater](https://github.com/SpeakingColors/gearupdater): one window that lists every Studio 87 plugin, checks GitHub for newer versions and updates them (v0.1.1 test build)
+- [Gear Updater](https://github.com/SpeakingColors/gearupdater): an app to browse, download and update every Studio 87 plugin, checks GitHub for newer versions (v0.1.1 test build)
 - [phasepaw](https://github.com/SpeakingColors/phasepaw): phase fixer for kick and bass alignment, for better mono compatibility
 - [cat-ui](https://github.com/SpeakingColors/cat-ui): shared UI
 - [claude-skills](https://github.com/SpeakingColors/claude-skills): the Claude skills I made for building this software, free to reuse
