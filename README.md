@@ -1,5 +1,7 @@
 # Hi, I'm Meow 🐈
 
+<p align="center"><a href="https://ko-fi.com/studio87"><img src="https://raw.githubusercontent.com/SpeakingColors/.github/main/assets/kofi-banner.svg" alt="Support Studio 87 on Ko-fi" width="440"></a></p>
+
 I build **free, open source music production software by Studio 87**, Linux first, with Windows and macOS builds for many: **VST3 synthesizer plugins** (supersaw, hoover, trance, acid, mono bass and lead, wavetable), **effect plugins** (compressor, limiter, saturation, distortion, bass enhancer, exciter, spectral sidechain ducker, shimmer reverb, volume shaper), **DJ and scratch plugins**, an **audio editor**, a **sample manager**, a **Google TV launcher**, **analyser plugins**, **MIDI controller and editor plugins for hardware synths** (Korg, Novation, Behringer, Yamaha, Modal) and **oscillator and effect units for the Korg minilogue xd and drumlogue**. Made with JUCE and C++, as VST3 and standalone apps.
 
 ## Latest releases
