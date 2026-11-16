@@ -1,0 +1,24 @@
+# Every Monday: is CI green in every public repo, and do the hygiene rules still hold (actions pinned, read-only token,
+# Dependabot present, strangers locked out)? Red run = something needs a look. Public data only, nothing is changed.
+name: weekly-sweep
+on:
+  schedule:
+    - cron: '41 5 * * 1'
+  workflow_dispatch:
+permissions:
+  contents: read
+  actions: write
+jobs:
+  sweep:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11d5960a326750d5838078e36cf38b85af677262 # v4
+      - name: Sweep every public repo
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: python3 .github/scripts/sweep.py SpeakingColors
+      - name: Keep this schedule alive (GitHub switches scheduled runs off after 60 days without repo activity)
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: gh api -X PUT repos/${{ github.repository }}/actions/workflows/weekly-sweep.yml/enable
