@@ -45,7 +45,11 @@ def check(r):
     seen = {}
     for w in runs: seen.setdefault(w["workflow_id"], w)
     for w in seen.values():
-        if w["conclusion"] in ("failure", "timed_out", "startup_failure"): issues.append(f"CI failing: {w['name']} ({w['conclusion']}) {w['html_url']}")
+        if w.get("event") == "dynamic": continue                               # Dependabot's own update runs are not our CI
+        if w["conclusion"] in ("failure", "timed_out", "startup_failure"):
+            jobs = (get(f"https://api.github.com/repos/{OWNER}/{name}/actions/runs/{w['id']}/jobs") or {}).get("jobs", [])
+            if jobs and not any(j["conclusion"] in ("failure", "timed_out") for j in jobs): continue   # only cancelled or skipped jobs (a busy or stopped runner), not a code failure
+            issues.append(f"CI failing: {w['name']} ({w['conclusion']}) {w['html_url']}")
     # workflow hygiene
     files = get(f"https://api.github.com/repos/{OWNER}/{name}/contents/.github/workflows") or []
     for f in files:
